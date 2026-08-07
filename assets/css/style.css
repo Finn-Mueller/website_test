@@ -21,7 +21,7 @@ body {
     align-items: center;
     padding: 1rem 2rem;
     background-color: white;
-    border-bottom: 1px solid grey;
+    border-bottom: 1px solid lightgray;
 }
 
 .menu-links {
@@ -50,7 +50,7 @@ body {
 .logo a {
     display: flex;
     align-items: center;
-    gap: 0.5rem;
+    gap: 1rem;
     text-decoration: none;
     color: black;
     white-space: nowrap;
@@ -63,7 +63,7 @@ body {
 }
 
 .logo img {
-    height: 5rem;
+    height: 3rem;
     display: block;
     flex-shrink: 0;
 }
